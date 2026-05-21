@@ -38,4 +38,4 @@ int main() {
     cout << "Length = " << longestSubstringKDistinct(s, k);
 
     return 0;
-}
+} 

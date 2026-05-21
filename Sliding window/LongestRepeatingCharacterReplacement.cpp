@@ -42,4 +42,4 @@ int main() {
     cout << "Maximum length of substring = " << ans << endl;
 
     return 0;
-}
+} 

@@ -71,4 +71,4 @@ int main() {
     cout << "Number of nice subarrays: " << ans << endl;
 
     return 0;
-}
+} 

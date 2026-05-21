@@ -59,4 +59,4 @@ int main() {
          << goal << " is: " << ans << endl;
 
     return 0;
-}
+} 

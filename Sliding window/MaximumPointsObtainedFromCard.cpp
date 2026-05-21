@@ -61,4 +61,4 @@ int main() {
     cout << "Maximum score is: " << ans << endl;
 
     return 0;
-}
+} 

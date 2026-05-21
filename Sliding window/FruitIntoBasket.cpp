@@ -48,4 +48,4 @@ int main() {
     cout << "Maximum fruits collected: " << ans << endl;
 
     return 0;
-}
+} 

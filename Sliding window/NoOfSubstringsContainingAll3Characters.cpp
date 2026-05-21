@@ -39,4 +39,4 @@ int main() {
     cout << "Number of substrings = " << ans << endl;
 
     return 0;
-}
+} 
